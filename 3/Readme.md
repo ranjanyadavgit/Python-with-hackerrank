@@ -3,7 +3,7 @@
 
 # Example
 
-# The list of non-negative integers that are less than  is . Print the square of each number on a separate line.
+The list of non-negative integers that are less than n=3 is [0,1,2] . Print the square of each number on a separate line.
 
 0
 1
